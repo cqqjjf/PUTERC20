@@ -8,6 +8,7 @@ contract PUTToken {
     string public constant symbol = "PUT";
     uint8 public decimals = 18;
     string  version = "1.0";
+	
 	// contracts
     address manager;
 	uint256 thetotalSupply;
